@@ -1,0 +1,4 @@
+C: 20
+degree: 6
+gamma: scale
+kernel: poly
