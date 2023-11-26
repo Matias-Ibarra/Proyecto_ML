@@ -2,7 +2,7 @@
 ***
 #### *Matias Ibarra - Bootcamp Data Science - The Bridge School - Año 2023*
 ***
-<img src="../images/alumno.jpg" width ="800" height="400">
+<img src="./images/alumno.jpg" width ="800" height="400">
 
 El siguiente proyecto tiene como objetivo predecir cómo se adaptarán los alumnos a las clases online en base a una serie de atributos. 
 
