@@ -1,4 +1,4 @@
-# **Adaptabilidad a la educación en línea**
+# **Adaptabilidad a la educación online**
 ***
 #### *Matias Ibarra - Bootcamp Data Science - The Bridge School - Año 2023*
 ***
