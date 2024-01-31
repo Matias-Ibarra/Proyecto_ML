@@ -34,7 +34,7 @@ Los valores de target son:
 ### Índice:
 * [app](./app/): archivo para ejecutar streamlit y los requerimientos.
 * [data](./data/): datos procesados y sin procesar, tambien están separados los datos finales de entrenamiento y test.
-* [docs](./docs/): memoria del proyecto donde se resumen todos los pasos y presentaciónb en powerpoint.
+* [docs](./docs/): memoria del proyecto donde se resumen todos los pasos y presentación en powerpoint.
 * [images](./images/): imágenes utilizadas.
 * [models](./models/): modelos de machine learning utilizados.
 * [notebooks](./notebooks/): notebooks de fuente de datos, EDA y entrenamiento-evaluación.
