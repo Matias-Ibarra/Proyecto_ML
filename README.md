@@ -30,3 +30,12 @@ Los valores de target son:
 * Class Duration: duración diaria de las clases.
 * Self Lms: si la institución cuenta con un Learning Management System.
 * Device: dispositivo utilizado en clase.
+
+### Índice:
+* [app](./app/): archivo para ejecutar streamlit y los requerimientos.
+* [data](./data/): datos procesados y sin procesar, tambien están separados los datos finales de entrenamiento y test.
+* [docs](./docs/): memoria del proyecto donde se resumen todos los pasos y presentaciónb en powerpoint.
+* [images](./images/): imágenes utilizadas.
+* [models](./models/): modelos de machine learning utilizados.
+* [notebooks](./notebooks/): notebooks de fuente de datos, EDA y entrenamiento-evaluación.
+* [src](./src/): archivos py de procesamiento de datos, evaluación y entrenamiento.
